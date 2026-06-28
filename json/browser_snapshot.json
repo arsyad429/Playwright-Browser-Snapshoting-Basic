@@ -1,0 +1,416 @@
+[
+  {
+    "element_id": "1",
+    "role": "a",
+    "label": "Gratis Ongkir + Banyak Promo\nbelanja di aplikasi",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "2",
+    "role": "a",
+    "label": "Tentang Tokopedia",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "3",
+    "role": "a",
+    "label": "Mulai Berjualan",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "4",
+    "role": "a",
+    "label": "Promo",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "5",
+    "role": "a",
+    "label": "Tokopedia Care",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "6",
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "7",
+    "role": "input",
+    "label": "Cari di Tokopedia",
+    "type": "search",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "8",
+    "role": "button",
+    "label": "Masuk",
+    "type": "button",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "9",
+    "role": "button",
+    "label": "Daftar",
+    "type": "button",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "10",
+    "role": "button",
+    "label": "Dikirim ke\n\nJakarta Pusat",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "external_message"
+  },
+  {
+    "element_id": "11",
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "12",
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "13",
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "14",
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "15",
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "16",
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "17",
+    "role": "button",
+    "label": "Ke slide 1",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "18",
+    "role": "button",
+    "label": "Ke slide 2",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "19",
+    "role": "button",
+    "label": "Ke slide 3",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "20",
+    "role": "button",
+    "label": "Ke slide 4",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "21",
+    "role": "button",
+    "label": "Ke slide 5",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "22",
+    "role": "button",
+    "label": "Ke slide 6",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "23",
+    "role": "button",
+    "label": "Ke slide 7",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "24",
+    "role": "a",
+    "label": "Lihat Promo Lainnya",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "25",
+    "role": "button",
+    "label": "prev",
+    "type": "button",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "26",
+    "role": "button",
+    "label": "next",
+    "type": "button",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "27",
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "28",
+    "role": "a",
+    "label": "Lihat Semua",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "29",
+    "role": "tab",
+    "label": "Pulsa",
+    "type": "button",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "30",
+    "role": "tab",
+    "label": "Paket Data",
+    "type": "button",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "31",
+    "role": "tab",
+    "label": "Listrik PLN",
+    "type": "button",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "32",
+    "role": "tab",
+    "label": "Roaming",
+    "type": "button",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "33",
+    "role": "button",
+    "label": "",
+    "type": "button",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "34",
+    "role": "input",
+    "label": "Masukan Nomor",
+    "type": "number",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "35",
+    "role": "button",
+    "label": "",
+    "type": "button",
+    "visible": true,
+    "enabled": false,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "36",
+    "role": "button",
+    "label": "Beli",
+    "type": "button",
+    "visible": true,
+    "enabled": false,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "37",
+    "role": "button",
+    "label": "Kategori",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "38",
+    "role": "button",
+    "label": "Handphone & Tablet",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "39",
+    "role": "button",
+    "label": "Top-Up & Tagihan",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "40",
+    "role": "button",
+    "label": "Elektronik",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "41",
+    "role": "button",
+    "label": "Perawatan Hewan",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "42",
+    "role": "button",
+    "label": "Keuangan",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "43",
+    "role": "button",
+    "label": "Komputer & Laptop",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "44",
+    "role": "button",
+    "label": "arrow prev",
+    "type": "button",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "45",
+    "role": "button",
+    "label": "arrow next",
+    "type": "button",
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  },
+  {
+    "element_id": "46",
+    "role": "button",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true,
+    "risk_hint": "low_risk"
+  }
+]

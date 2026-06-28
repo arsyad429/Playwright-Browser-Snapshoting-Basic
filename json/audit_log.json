@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2026-06-24T07:05:07.529Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-06-24T07:08:41.352Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-06-24T07:11:38.802Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-06-24T07:14:40.790Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-06-24T07:17:30.004Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-06-26T12:12:56.944Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-06-26T13:04:38.343Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-06-26T13:18:41.375Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-06-26T13:22:04.844Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  }
+]

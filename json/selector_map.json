@@ -1,0 +1,370 @@
+{
+  "1": {
+    "index": 0,
+    "role": "a",
+    "label": "Gratis Ongkir + Banyak Promo\nbelanja di aplikasi",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "2": {
+    "index": 1,
+    "role": "a",
+    "label": "Tentang Tokopedia",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "3": {
+    "index": 2,
+    "role": "a",
+    "label": "Mulai Berjualan",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "4": {
+    "index": 3,
+    "role": "a",
+    "label": "Promo",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "5": {
+    "index": 4,
+    "role": "a",
+    "label": "Tokopedia Care",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "6": {
+    "index": 5,
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "7": {
+    "index": 6,
+    "role": "input",
+    "label": "Cari di Tokopedia",
+    "type": "search",
+    "visible": true,
+    "enabled": true
+  },
+  "8": {
+    "index": 7,
+    "role": "button",
+    "label": "Masuk",
+    "type": "button",
+    "visible": true,
+    "enabled": true
+  },
+  "9": {
+    "index": 8,
+    "role": "button",
+    "label": "Daftar",
+    "type": "button",
+    "visible": true,
+    "enabled": true
+  },
+  "10": {
+    "index": 9,
+    "role": "button",
+    "label": "Dikirim ke\n\nJakarta Pusat",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "11": {
+    "index": 10,
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "12": {
+    "index": 11,
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "13": {
+    "index": 12,
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "14": {
+    "index": 13,
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "15": {
+    "index": 14,
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "16": {
+    "index": 15,
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "17": {
+    "index": 16,
+    "role": "button",
+    "label": "Ke slide 1",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "18": {
+    "index": 17,
+    "role": "button",
+    "label": "Ke slide 2",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "19": {
+    "index": 18,
+    "role": "button",
+    "label": "Ke slide 3",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "20": {
+    "index": 19,
+    "role": "button",
+    "label": "Ke slide 4",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "21": {
+    "index": 20,
+    "role": "button",
+    "label": "Ke slide 5",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "22": {
+    "index": 21,
+    "role": "button",
+    "label": "Ke slide 6",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "23": {
+    "index": 22,
+    "role": "button",
+    "label": "Ke slide 7",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "24": {
+    "index": 23,
+    "role": "a",
+    "label": "Lihat Promo Lainnya",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "25": {
+    "index": 24,
+    "role": "button",
+    "label": "prev",
+    "type": "button",
+    "visible": true,
+    "enabled": true
+  },
+  "26": {
+    "index": 25,
+    "role": "button",
+    "label": "next",
+    "type": "button",
+    "visible": true,
+    "enabled": true
+  },
+  "27": {
+    "index": 26,
+    "role": "a",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "28": {
+    "index": 27,
+    "role": "a",
+    "label": "Lihat Semua",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "29": {
+    "index": 28,
+    "role": "tab",
+    "label": "Pulsa",
+    "type": "button",
+    "visible": true,
+    "enabled": true
+  },
+  "30": {
+    "index": 29,
+    "role": "tab",
+    "label": "Paket Data",
+    "type": "button",
+    "visible": true,
+    "enabled": true
+  },
+  "31": {
+    "index": 30,
+    "role": "tab",
+    "label": "Listrik PLN",
+    "type": "button",
+    "visible": true,
+    "enabled": true
+  },
+  "32": {
+    "index": 31,
+    "role": "tab",
+    "label": "Roaming",
+    "type": "button",
+    "visible": true,
+    "enabled": true
+  },
+  "33": {
+    "index": 32,
+    "role": "button",
+    "label": "",
+    "type": "button",
+    "visible": true,
+    "enabled": true
+  },
+  "34": {
+    "index": 33,
+    "role": "input",
+    "label": "Masukan Nomor",
+    "type": "number",
+    "visible": true,
+    "enabled": true
+  },
+  "35": {
+    "index": 34,
+    "role": "button",
+    "label": "",
+    "type": "button",
+    "visible": true,
+    "enabled": false
+  },
+  "36": {
+    "index": 35,
+    "role": "button",
+    "label": "Beli",
+    "type": "button",
+    "visible": true,
+    "enabled": false
+  },
+  "37": {
+    "index": 36,
+    "role": "button",
+    "label": "Kategori",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "38": {
+    "index": 37,
+    "role": "button",
+    "label": "Handphone & Tablet",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "39": {
+    "index": 38,
+    "role": "button",
+    "label": "Top-Up & Tagihan",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "40": {
+    "index": 39,
+    "role": "button",
+    "label": "Elektronik",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "41": {
+    "index": 40,
+    "role": "button",
+    "label": "Perawatan Hewan",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "42": {
+    "index": 41,
+    "role": "button",
+    "label": "Keuangan",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "43": {
+    "index": 42,
+    "role": "button",
+    "label": "Komputer & Laptop",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  },
+  "44": {
+    "index": 43,
+    "role": "button",
+    "label": "arrow prev",
+    "type": "button",
+    "visible": true,
+    "enabled": true
+  },
+  "45": {
+    "index": 44,
+    "role": "button",
+    "label": "arrow next",
+    "type": "button",
+    "visible": true,
+    "enabled": true
+  },
+  "46": {
+    "index": 45,
+    "role": "button",
+    "label": "",
+    "type": null,
+    "visible": true,
+    "enabled": true
+  }
+}
