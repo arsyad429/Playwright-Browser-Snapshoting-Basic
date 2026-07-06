@@ -61,5 +61,40 @@
     "payload": {
       "url": "https://tokopedia.com"
     }
+  },
+  {
+    "timestamp": "2026-07-01T13:52:15.278Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-07-01T14:53:51.330Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-07-01T15:02:45.758Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-07-01T15:05:41.287Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
+  },
+  {
+    "timestamp": "2026-07-04T13:11:05.482Z",
+    "eventType": "PAGE_LOADED",
+    "payload": {
+      "url": "https://tokopedia.com"
+    }
   }
 ]

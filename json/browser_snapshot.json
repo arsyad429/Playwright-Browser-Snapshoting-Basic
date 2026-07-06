@@ -1,416 +1,602 @@
 [
   {
-    "element_id": "1",
-    "role": "a",
-    "label": "Gratis Ongkir + Banyak Promo\nbelanja di aplikasi",
-    "type": null,
-    "visible": true,
-    "enabled": true,
+    "role": "link",
+    "label": "Gratis Ongkir + Banyak Promo belanja di aplikasi",
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "2",
-    "role": "a",
-    "label": "Tentang Tokopedia",
-    "type": null,
-    "visible": true,
-    "enabled": true,
-    "risk_hint": "low_risk"
-  },
-  {
-    "element_id": "3",
-    "role": "a",
-    "label": "Mulai Berjualan",
-    "type": null,
-    "visible": true,
-    "enabled": true,
-    "risk_hint": "low_risk"
-  },
-  {
-    "element_id": "4",
-    "role": "a",
-    "label": "Promo",
-    "type": null,
-    "visible": true,
-    "enabled": true,
-    "risk_hint": "low_risk"
-  },
-  {
-    "element_id": "5",
-    "role": "a",
-    "label": "Tokopedia Care",
-    "type": null,
-    "visible": true,
-    "enabled": true,
-    "risk_hint": "low_risk"
-  },
-  {
-    "element_id": "6",
-    "role": "a",
+    "role": "https",
     "label": "",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "7",
-    "role": "input",
+    "role": "img",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "strong",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Gratis",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "text",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "belanja",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "img",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "Tentang Tokopedia",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "Mulai Berjualan",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "https",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "Promo",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "Tokopedia Care",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "tokopedia-logo",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "https",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "img",
+    "label": "tokopedia-logo",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "text",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Kategori",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "img",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "searchbox",
     "label": "Cari di Tokopedia",
-    "type": "search",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "8",
     "role": "button",
     "label": "Masuk",
-    "type": "button",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "9",
     "role": "button",
     "label": "Daftar",
-    "type": "button",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "10",
     "role": "button",
-    "label": "Dikirim ke\n\nJakarta Pusat",
-    "type": null,
-    "visible": true,
-    "enabled": true,
+    "label": "Dikirim ke Jakarta Pusat",
     "risk_hint": "external_message"
   },
   {
-    "element_id": "11",
-    "role": "a",
+    "role": "img",
     "label": "",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "12",
-    "role": "a",
+    "role": "paragraph",
     "label": "",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "13",
-    "role": "a",
+    "role": "Dikirim",
     "label": "",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "14",
-    "role": "a",
+    "role": "paragraph",
     "label": "",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "15",
-    "role": "a",
+    "role": "Jakarta",
     "label": "",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "16",
-    "role": "a",
+    "role": "img",
     "label": "",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "17",
+    "role": "main",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "X_DG_HPB 8 Home_All User_DG Passport Campaign_04 Jul 26",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "https",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "img",
+    "label": "X_DG_HPB 8 Home_All User_DG Passport Campaign_04 Jul 26",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "X_IMC_HPB 1 Home _All User__04 Jul 26",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "https",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "img",
+    "label": "X_IMC_HPB 1 Home _All User__04 Jul 26",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "X_IMC_HPB 2 Home_All User__04 Jul 26_Panasonic Official Shop",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "https",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "img",
+    "label": "X_IMC_HPB 2 Home_All User__04 Jul 26_Panasonic Official Shop",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "X_IMC_HPB 3 Home_All User__04 Jul 26_Colgate Palmolive Indonesia",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "https",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "img",
+    "label": "X_IMC_HPB 3 Home_All User__04 Jul 26_Colgate Palmolive Indonesia",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "X_IMC_HPB 4 Home_All User__04 Jul 26_BWBYAZ",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "https",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "img",
+    "label": "X_IMC_HPB 4 Home_All User__04 Jul 26_BWBYAZ",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "X_DG_HPB 8 Home_All User_DG Passport Campaign_04 Jul 26",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "https",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "img",
+    "label": "X_DG_HPB 8 Home_All User_DG Passport Campaign_04 Jul 26",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
     "label": "Ke slide 1",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "18",
     "role": "button",
     "label": "Ke slide 2",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "19",
     "role": "button",
     "label": "Ke slide 3",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "20",
     "role": "button",
     "label": "Ke slide 4",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "21",
     "role": "button",
     "label": "Ke slide 5",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "22",
     "role": "button",
     "label": "Ke slide 6",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "23",
     "role": "button",
     "label": "Ke slide 7",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "24",
-    "role": "a",
+    "role": "link",
     "label": "Lihat Promo Lainnya",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "25",
     "role": "button",
     "label": "prev",
-    "type": "button",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "26",
     "role": "button",
     "label": "next",
-    "type": "button",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "27",
-    "role": "a",
+    "role": "heading",
+    "label": "Kategori Populer",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
+    "label": "initial widget",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "https",
     "label": "",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "28",
-    "role": "a",
+    "role": "img",
+    "label": "initial widget",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "heading",
+    "label": "Top Up & Tagihan",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "link",
     "label": "Lihat Semua",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "29",
+    "role": "tablist",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "tab",
     "label": "Pulsa",
-    "type": "button",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "30",
+    "role": "paragraph",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Pulsa",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "tab",
     "label": "Paket Data",
-    "type": "button",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "31",
+    "role": "paragraph",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Paket",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "tab",
     "label": "Listrik PLN",
-    "type": "button",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "32",
+    "role": "paragraph",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Listrik",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "tab",
     "label": "Roaming",
-    "type": "button",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "33",
+    "role": "paragraph",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Roaming",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
     "label": "",
-    "type": "button",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "34",
-    "role": "input",
-    "label": "Masukan Nomor",
-    "type": "number",
-    "visible": true,
-    "enabled": true,
+    "role": "text",
+    "label": "",
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "35",
+    "role": "Nomor",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "spinbutton",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "text",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Nominal",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
     "label": "",
-    "type": "button",
-    "visible": true,
-    "enabled": false,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "36",
+    "role": "paragraph",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "img",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
     "label": "Beli",
-    "type": "button",
-    "visible": true,
-    "enabled": false,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "37",
+    "role": "region",
+    "label": "dynamic icon wrapper",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
-    "label": "Kategori",
-    "type": null,
-    "visible": true,
-    "enabled": true,
+    "label": "icon-Kategori Kategori",
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "38",
+    "role": "img",
+    "label": "icon-Kategori",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "text",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Kategori",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
-    "label": "Handphone & Tablet",
-    "type": null,
-    "visible": true,
-    "enabled": true,
+    "label": "icon-Handphone & Tablet Handphone & Tablet",
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "39",
+    "role": "img",
+    "label": "icon-Handphone & Tablet",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "text",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Handphone",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
-    "label": "Top-Up & Tagihan",
-    "type": null,
-    "visible": true,
-    "enabled": true,
+    "label": "icon-Top-Up & Tagihan Top-Up & Tagihan",
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "40",
+    "role": "img",
+    "label": "icon-Top-Up & Tagihan",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "text",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Top",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
-    "label": "Elektronik",
-    "type": null,
-    "visible": true,
-    "enabled": true,
+    "label": "icon-Elektronik Elektronik",
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "41",
+    "role": "img",
+    "label": "icon-Elektronik",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "text",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Elektronik",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
-    "label": "Perawatan Hewan",
-    "type": null,
-    "visible": true,
-    "enabled": true,
+    "label": "icon-Perawatan Hewan Perawatan Hewan",
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "42",
+    "role": "img",
+    "label": "icon-Perawatan Hewan",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "text",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Perawatan",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
-    "label": "Keuangan",
-    "type": null,
-    "visible": true,
-    "enabled": true,
+    "label": "icon-Keuangan Keuangan",
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "43",
+    "role": "img",
+    "label": "icon-Keuangan",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "text",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Keuangan",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
-    "label": "Komputer & Laptop",
-    "type": null,
-    "visible": true,
-    "enabled": true,
+    "label": "icon-Komputer & Laptop Komputer & Laptop",
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "44",
+    "role": "img",
+    "label": "icon-Komputer & Laptop",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "text",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "Komputer",
+    "label": "",
+    "risk_hint": "low_risk"
+  },
+  {
     "role": "button",
     "label": "arrow prev",
-    "type": "button",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "45",
     "role": "button",
     "label": "arrow next",
-    "type": "button",
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   },
   {
-    "element_id": "46",
-    "role": "button",
+    "role": "img",
+    "label": "welcome-banner",
+    "risk_hint": "low_risk"
+  },
+  {
+    "role": "separator",
     "label": "",
-    "type": null,
-    "visible": true,
-    "enabled": true,
     "risk_hint": "low_risk"
   }
 ]

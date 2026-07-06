@@ -35,6 +35,12 @@ async function executeAction(
             });
 
             break;
+        
+        case 'fill':
+            //
+        
+        case 'scroll':
+            //
 
         default:
             throw new Error(
